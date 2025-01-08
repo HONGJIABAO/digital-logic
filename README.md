@@ -21,3 +21,5 @@ Module 7 - Latches,Flip-Flops and Timers
 Module 8 - Counters
 
 Module 9 - Shift Register
+
+More information on [Click here 🌟🌟 ](https://hongjiabao.github.io/JIABAO.github.io/Digital%20logic.html)
